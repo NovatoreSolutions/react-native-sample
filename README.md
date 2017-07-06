@@ -17,12 +17,12 @@ This is a sample application for React native, used and maintained by Novatore S
 
 ## Running your React Native application
 
-# For IOS
+## For IOS
 
 `react-native run-ios`
 
 
-# For Android
+## For Android
 
-`nreact-native run-android`
+`react-native run-android`
 
