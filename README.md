@@ -1,28 +1,27 @@
-# Novatore React Native Sample.
+# Novatore React Native Sample
 
-This is a sample application for React native, used and maintained by Novatore Solutions.
+A sample React Native application used, maintained and experimented on by Novatore Solutions.
 
 ## Requirements
 
-1. Node and npm
-2. npm install -g react-native-cli
-3. npm install -g create-react-native-app
+1. Node and Npm
+2. React Native CLI `npm install -g react-native-cli`
+3. Create React Native App `npm install -g create-react-native-app`
 
 ## Installation
 
 1. Clone the repository and move to it
-2. Install npm modules: `npm install`
+2. Install npm modules `npm install`
 3. To start a development server `npm start`
 
 
-## Running your React Native application
+## Running The App
 
-## For IOS
+### IOS
 
 `react-native run-ios`
 
-
-## For Android
+### For Android
 
 `react-native run-android`
 
